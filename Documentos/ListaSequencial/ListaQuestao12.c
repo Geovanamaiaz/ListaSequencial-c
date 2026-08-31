@@ -12,7 +12,7 @@ int main(){
     novo_salario = salario_funcionario + (salario_funcionario * 0.25);
     
     //Saida de dados
-    printf("O novo salario do funcionario eh: %.2f\n",novo_salario);
+    printf("O novo salario do funcionario: %.2f\n",novo_salario);
     
     return 0;
 }
