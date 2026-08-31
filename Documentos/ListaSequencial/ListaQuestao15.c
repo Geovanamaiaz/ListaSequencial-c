@@ -11,7 +11,7 @@ int main(){
     
     //Processamento
     peso_gramas = peso * 1000;
-    novo_peso = peso_gramas + (peso_gramas * 5 / 100);
+    novo_peso = peso_gramas + (peso_gramas * 0.5);
     
     //Saida de dados
     printf("O peso em gramas : %d\n", peso_gramas);
