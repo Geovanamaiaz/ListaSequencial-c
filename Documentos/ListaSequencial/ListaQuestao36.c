@@ -3,7 +3,7 @@ int main(){
     
     //Declaracao de variaveis
     int numero_apartamento = 0;
-    float diaria, diaria_promocional = 0, total_100 = 0, total_70 = 0, perda = 0;
+    float diaria = 0, diaria_promocional = 0, total_100 = 0, total_70 = 0, perda = 0;
     
     //Entrada de dados
     printf("Digite o numero do apartamento: "); 
